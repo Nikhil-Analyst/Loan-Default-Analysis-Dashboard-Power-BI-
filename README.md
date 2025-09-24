@@ -1,6 +1,7 @@
 # Loan-Default-Analysis-Dashboard-Power-BI-
 An interactive Power BI dashboard analysing loan distribution, borrower demographics, and financial risk metrics. Highlights include insights on employment type, income levels, age groups, credit scores, and year-on-year loan/default trends to support data-driven lending decisions. The goal is to uncover patterns in loan defaults and provide insights that support data-driven lending decisions.
 
+Dashboard link: https://app.powerbi.com/groups/1a0ab455-f690-40e4-bd2a-c067ac204842/reports/455eba8d-0a09-4d64-8193-9d9d8e2bbe91/ReportSection?experience=power-bi
 - - - 
 
 # Features
